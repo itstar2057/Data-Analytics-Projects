@@ -1,0 +1,27 @@
+Problem Statement
+
+Atliq Grands, a well-established chain of five-star hotels across India, has been in the hospitality industry for 20 years. However, due to strategic moves by competitors and poor management decisions, they are losing market share and revenue in the luxury and business hotel segments. To address this, the managing director wants to integrate Business and Data Intelligence to help regain their market position. Since they lack an in-house data analytics team, they've decided to hire a third-party service provider to analyze their historical data and provide actionable insights.
+
+Task List
+
+As a data analyst, you've been given sample data and a mock-up dashboard to complete the following tasks:
+- Create the required metrics as per the provided list.
+- Build a dashboard based on the mock-up provided by the stakeholders.
+- Generate additional insights beyond those listed in the metric list and mock-up.
+
+Key Learnings from the Project
+
+- Developed a new visual (Calendar visual) using a matrix table for various analytical purposes.
+- Gained insights into hotel cancellation policies, noting that most hotels charge zero fees if cancellations are made more than three months in advance, but charge 60-90% if canceled later.
+- Learned to use bookmarks and selections for functions like page navigation and clear filter buttons in the dashboard.
+- Applied a consistent color palette throughout the dashboard for visual harmony.
+
+Important Insights from the Dashboard
+
+- Mumbai is the top revenue generator with 669 million, followed by Bangalore, Hyderabad, and Delhi.
+- AtliQ Exotica is the best-performing property among all seven, with 320 million in revenue, a 3.62 rating, 57% occupancy, and a 24.4% cancellation rate.
+- AtliQ Bay has the highest occupancy rate at 66%.
+- Week 24 recorded the highest revenue at 139.6 million.
+- Delhi leads in both occupancy and rating, followed by Hyderabad, Mumbai, and Bangalore.
+- AtliQ lost approximately 298 million due to cancellations.
+- Elite-type rooms have the highest bookings but also the highest cancellation rates. 
